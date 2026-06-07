@@ -2,3 +2,15 @@
   
 color: rgb(100, 2, 193);
 }
+
+.para1{
+  background-color: blanchedalmond;
+  color: blue;
+  width: 80%;
+  height: 100%;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  margin: 50px;
+  padding: 50px;
+}

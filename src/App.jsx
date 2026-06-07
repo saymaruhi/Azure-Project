@@ -7,6 +7,7 @@ function App() {
     <div>
       <h3>sprint1</h3>
       <h4>This is sprint demo</h4>
+      
      <Home/>
     </div>
   );
