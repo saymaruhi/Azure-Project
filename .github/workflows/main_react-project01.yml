@@ -61,5 +61,6 @@ jobs:
         with:
           app-name: 'react-project01'
           slot-name: 'Production'
-          package: .
+          package: dist
+          
           
